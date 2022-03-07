@@ -47,7 +47,12 @@ img{
     padding-top: 20px;
 }
 button{
-    margin-left: 80px;
+    margin-left: 180px;
+    background: pink;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+
 }
 input{
     width: 300px;
